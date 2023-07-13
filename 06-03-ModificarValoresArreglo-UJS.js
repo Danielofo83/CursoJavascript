@@ -12,5 +12,7 @@ for(let i = 0; i < autos.length; i++){
 autos[1] = 'MerecedesBenz';
 console.log(autos[1]);
 
+//con esta funcion agregamos un nuevo elemento al final del arreglo con el valor de Audi
+
 autos.push('Audi');
 console.log(autos);

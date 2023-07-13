@@ -1,5 +1,7 @@
 let a = 1;
 
+let c = 0;
+
 a += 3; // a = a + 3
 console.log(a);
 
@@ -12,3 +14,6 @@ console.log(a);
 %=
 **=
 */
+
+c += a;
+console.log(c);
